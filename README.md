@@ -1,5 +1,5 @@
 # ⚡ Phase: Neural Orchestration Active
-### 📟 Architect: @[USERNAME_ANDA] | Echelon-7 Entity
+### 📟 Architect: @mohminannurrohim | Echelon-7 Entity
 
 <p align="left">
   <img src="https://img.shields.io" />
